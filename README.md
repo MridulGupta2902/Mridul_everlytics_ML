@@ -10,12 +10,12 @@
 7. Random_Forest
 8. Accuracy of Model
 
-### Tools and techniques
-<br>Random forest's benefits
-1.It is capable of both classification and regression tasks.
-2.A random forest generates accurate forecasts that are simple to comprehend.
-3.Large datasets can be handled effectively.
-4.Compared to the decision tree method, the random forest algorithm is more accurate in forecasting outcomes.
+### Tools and techniques(Random Forest)
+1. Accuracy is very important so we have to use most accurate model which is Random forest.
+2. A random forest generates accurate forecasts that are simple to comprehend.
+3. Large datasets can be handled effectively.
+4. Compared to the decision tree method, the random forest algorithm is more accurate in forecasting outcomes.
+5. It is capable of both classification and regression tasks.
 
 ### Accuracy:0.974 
 
